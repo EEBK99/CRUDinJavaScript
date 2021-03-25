@@ -1,13 +1,13 @@
-## Crud operations in JavaScript
+# Crud operations in JavaScript
 
-# Event Listeners
+## Event Listeners
 
-# Local Storage
+## Local Storage
 
-# ES6/Arrow Function
+## ES6/Arrow Function
 
-# Arrays
+## Arrays
 
-# Array Filter
+## Array Filter
 
-# Map
+## Map
